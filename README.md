@@ -3,9 +3,9 @@
 This is the number of the original bug I posted at apple, but this sample project does expose several different bugs on different versions of iOS and the simulator — not all of which have been filed yet!
 
 So if you, dear reader, happen to find something else that’s wonky, feel free to include this project in your own bugreport for Apple — or fork and modify it.
-If you do so, please open an [issue](issues/new) here, so that I may duplicate it.
+If you do so, please open an [issue](https://github.com/danyowdee/rdar-19810729/issues/new) here, so that I may duplicate it.
 
-Alternatively, [open a pull request](pulls/new) that appends your bug ID (and status) to the list below.
+Alternatively, [open a pull request](https://github.com/danyowdee/rdar-19810729/pulls/new) that appends your bug ID (and status) to the list below.
 
 ### Filed Bugs and their Status
 This sample project has been used in the following bug reports:
